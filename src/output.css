@@ -1261,6 +1261,9 @@
   .text-left {
     text-align: left;
   }
+  .text-start {
+    text-align: start;
+  }
   .font-mono {
     font-family: var(--font-mono);
   }
